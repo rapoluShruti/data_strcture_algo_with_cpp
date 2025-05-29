@@ -19,7 +19,6 @@
 
 If you find this repo helpful:
 
-- Give it a ⭐ to show your support!
 - Feel free to fork it and use the structure for your own learning.
 - Suggestions for improvement are always welcome — just open an issue or a pull request!
 
